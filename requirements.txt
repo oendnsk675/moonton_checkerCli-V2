@@ -1,0 +1,4 @@
+futures
+requests
+fake-useragent
+pysocks
