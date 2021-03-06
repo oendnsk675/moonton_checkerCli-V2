@@ -2,7 +2,7 @@ list note:
 1. untuk empas 0 - 500 , pakai thread sebanyak 0-30
 2. untuk empas diatas 500 , pakai thread sebanyak 100
 3. untuk result bisa dilihat di folder result
-4. untuk cara setting
+4. untuk cara setting, buka folder setting, dan buka file setting.json, dan setting sesusai format di bawah ini
     {
         "username": "", <----- isi dengan username yang di web eastlombok
         "password": "", <----- isi dengan password yang di web eastlombok
